@@ -1,0 +1,26 @@
+body {
+
+}
+
+h1{
+  text-align: center;
+  text-transform: uppercase;
+}
+
+
+img{
+   width: 120px;
+   margin-bottom: 15px;
+   /*Your code here*/
+   display: block;
+   margin: 0 auto;
+}
+
+
+div{
+   padding: 30px;
+   margin:5px;
+   /* YOUR CODE HERE */
+   background-image: url("../images/back-ground.jpeg");
+   background-repeat: repeat;
+}
