@@ -1,5 +1,6 @@
 body {
-
+  background-image: url("../images/back-ground.jpeg");
+  background-repeat: repeat;
 }
 
 h1{
@@ -21,6 +22,4 @@ div{
    padding: 30px;
    margin:5px;
    /* YOUR CODE HERE */
-   background-image: url("../images/back-ground.jpeg");
-   background-repeat: repeat;
 }
